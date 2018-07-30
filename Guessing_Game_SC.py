@@ -1,6 +1,5 @@
 
 import random
-import time
 
 print("Welcome! Input a range for the possible numbers. Then, input an integer value and try to guess the number.")
 
